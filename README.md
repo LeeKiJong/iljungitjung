@@ -56,7 +56,7 @@
 
 # 4. 시스템 구성도
 
-![제목_없는_다이어그램.drawio](https://lab.ssafy.com/s07-final/S07P31D106/uploads/ebef644f5d0403a88d5f6a6374dec53f/%EC%A0%9C%EB%AA%A9_%EC%97%86%EB%8A%94_%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.drawio.png)
+![image](https://user-images.githubusercontent.com/52438368/211197586-16085703-de69-4b83-8cc3-dae3ed1f5a7d.png)
 
 # 5. 실행 방법
 ## backend
@@ -69,7 +69,7 @@ ssh -i K7D106T.pem ubuntu@k7d106.p.ssafy.io
 ```
 
 ### docker logs
-![image](https://lab.ssafy.com/s07-final/S07P31D106/uploads/cea753e37746b5ce94b991333c57c16a/image.png)
+![image](https://user-images.githubusercontent.com/52438368/211197392-8860b850-19ee-4bcf-99d8-c04c73efc29c.png)
 ```
 docker logs --tail 300 iljungitjung_server_green
 ```
